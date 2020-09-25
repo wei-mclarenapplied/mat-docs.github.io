@@ -1,6 +1,6 @@
 {
   "homepages": [],
-  "source_base_path": "C:/agent/vsts-agent-win-x64-2.159.2-1/_work/8/s/Mesl.SqlRace.DocFX",
+  "source_base_path": "C:/agent/_work/20/s/Mesl.SqlRace.DocFX",
   "xrefmap": "xrefmap.yml",
   "files": [
     {
@@ -59,7 +59,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "WzgBCbY60u4ww7cvmIpTyw=="
+          "hash": "5UTIeP2tLwRISTHp2t6PLw=="
         }
       },
       "is_incremental": false,
